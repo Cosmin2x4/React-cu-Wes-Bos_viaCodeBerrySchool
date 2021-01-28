@@ -1,0 +1,4 @@
+Ramane de clarificat de ce trebuie sa avem un Router, 
+la ce este bun el,
+de ce nu ni se explica rolul lui
+si modul de navigare cu componentele router-ului?
